@@ -22,9 +22,9 @@ http.createServer(function(request, response) {
 '            </div> '+
 '        </li>        '+
 '        <li id="li_6" >'+
-'            <label class="description" for="element_6">Drop Down </label>'+
+'            <label class="description" for="element_6">Oobject </label>'+
 '            <div>'+
-'                <select class="element select medium" id="element_6" name="element_6"> '+
+'                <select class="element select medium" id="element_6" name="object"> '+
 '                    <option value="user" >user</option>'+
 '                    <option value="tag" >tag</option>'+
 '                    <option value="location" >location</option>'+
